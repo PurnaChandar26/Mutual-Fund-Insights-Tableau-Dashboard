@@ -39,7 +39,7 @@ To access the "Mutual Fund Insights" dashboard, follow these steps:
 
 4.  Explore Mutual Fund Data: You can now explore the interactive dashboard and gain insights into mutual fund performance and trends.
 
-Contributions
+Contributions 
 -------------
 
 Contributions to enhance the "Mutual Fund Insights" dashboard are welcome! If you have ideas for new features, improvements, or data sources, feel free to open an issue or submit a pull request.
