@@ -3,10 +3,12 @@ Mutual Fund Insights
 
 This repository contains an interactive Tableau dashboard designed to provide valuable insights into mutual funds. Whether you're an investor looking to make informed decisions or someone interested in exploring mutual fund trends, this dashboard is a powerful tool for you.
 
+- # [To View the reactive dashboard, Click here!](https://public.tableau.com/views/MutualFundIndia_16937582176870/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 - Disclaimer: Mutual Fund investments are subject to market risks, and the value of investments may go up or down. This project is for basic understanding and educational purposes only. It does not constitute financial advice or a recommendation to invest in any specific mutual fund.
 
 
-- # [To View the reactive dashboard, Click here!](https://public.tableau.com/views/MutualFundIndia_16937582176870/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 ![Screenshot (27)](https://github.com/PurnaChandar26/Mutual-Fund-Insights/assets/97793147/6c1dd8ad-deb7-43c1-ab37-8b04486c029f)
