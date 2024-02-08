@@ -17,7 +17,7 @@ Overview
 
 -   Project Description: The "Mutual Fund Insights" project focuses on analyzing and visualizing mutual fund data to help users better understand their performance and make data-driven investment decisions.
 
--   Key Features:
+-   Key Features: 
 
     -   Interactive Visualizations: Explore a wide range of interactive charts and graphs that showcase mutual fund performance metrics, historical trends, and comparisons.
 
